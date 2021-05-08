@@ -1,0 +1,42 @@
+[
+{
+        "id": 1,
+        "type": "anime",
+        "trivia": "Quel est le nom du personnage principal d'attaque des titans ?",
+        "rep": "Eren Jäger .",
+        "img": "https://static.wikia.nocookie.net/heros/images/1/18/Eren_Jaeger.png/revision/latest?cb=20200702134604&path-prefix=fr",
+        "src": "https://attaque-des-titans.fandom.com/fr/wiki/Eren_J%C3%A4ger"
+    }, 
+    {
+        "id": 2,
+        "type": "anime",
+        "trivia": "Combien d'épisodes y a-t-il dans One piece ?",
+        "rep": "970 episode .",
+        "img": "https://fr.web.img5.acsta.net/pictures/19/08/09/14/53/1842996.jpg",
+        "src": "https://www.allocine.fr/series/ficheserie_gen_cserie=3463.html"
+    },
+    {
+        "id": 3,
+        "type": "anime",
+        "trivia": "Quelle série animée tourne autour d'un garçon qui vend son âme à un démon ?",
+        "rep": "Black Butler .",
+        "img": "https://www.nautiljon.com/images/manga/00/79/black_butler_197.jpg?1602461296",
+        "src": "https://www.nautiljon.com/mangas/black+butler.html"
+    }, 
+    {
+        "id": 4,
+        "type": "pokemon",
+        "trivia": "Quel Pokémon a des poches de stockage d'électricité sur ses joues ?",
+        "rep": "Pikachu .",
+        "img": "https://www.pokepedia.fr/images/thumb/e/e7/Pikachu-RFVF.png/250px-Pikachu-RFVF.png",
+        "src": "https://www.pokepedia.fr/Pikachu"
+    },
+    {
+       "id": 5,
+       "type": "anime",
+       "trivia": "Qui protège le cristal d'argent(Silver Crystal) ?",
+       "rep": "Sailor Moon .",
+       "img": "https://static.wikia.nocookie.net/sailormoon/images/2/27/Crystal-10-1.jpg/revision/latest?cb=20141123034235",
+       "src": "https://sailormoon.fandom.com/wiki/Silver_Crystal"
+       }
+]
